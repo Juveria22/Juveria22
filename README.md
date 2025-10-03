@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juveria22  
-- 👀 Passionate about building innovative tech projects that create real-world impact.  
-- 🌱 Exploring agentic AI, full-stack development, and practical applications of emerging technologies.  
+- I love making fun and creative projects!
+- Currently exploring agentic AI, full-stack development, and machine learning.
   
 <!---
 Juveria22/Juveria22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
